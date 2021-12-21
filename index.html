@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header id="container">
+      <img
+        src="https://cdn-icons-png.flaticon.com/512/1518/1518980.png"
+        alt=""
+      />
+      <h1>Churrascômetro</h1>
+      <form id="" action="">
+        <div id="teste">
+          <label for="adultos">Adultos:</label>
+          <input
+            class="texto"
+            min="0"
+            type="number"
+            placeholder="Adultos"
+            id="adultos"
+          />
+        </div>
+        <div id="teste">
+          <label for="crianças">Crianças:</label>
+          <input
+            class="texto"
+            min="0"
+            type="number"
+            placeholder="Crianças"
+            id="crianças"
+          />
+        </div>
+
+        <div id="teste">
+          <label for="duração">Duração:</label>
+          <input
+            class="texto"
+            min="0"
+            type="number"
+            placeholder="Duração"
+            id="duração"
+          />
+        </div>
+
+        <input id="botao" onclick="cal()" type="button" value="Calcular" />
+      </form>
+      <div id="somatoria"></div>
+      <!--O resultado de JS virá aqui-->
+    </header>
+
+    <script src="script.js"></script>
+  </body>
+</html>
