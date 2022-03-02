@@ -10,7 +10,7 @@
 
 <div style="display: inline_block">
   
- <img width=200px align="right" src="churrascometro.png">
+ <img width=200px align="right" src="churrascometro.PNG">
 <div align="left">
 - 400g de carne por pessoa;
 - 1200ml de cerveja por pessoa;
