@@ -8,6 +8,10 @@
 
 ### Foi levado em consideração para o cálculo:
 
+<div style="display: inline_block">
+  
+ <img width=200px align="right" src="churrascometro.png">
+<div align="left">
 - 400g de carne por pessoa;
 - 1200ml de cerveja por pessoa;
 - 1000ml de refrigerante por pessoa.
@@ -22,3 +26,6 @@
 
 - 1 lata de cerveja = 355 ml;
 - Crianças consomem a metade de um adulto.
+</div>
+
+<div>
